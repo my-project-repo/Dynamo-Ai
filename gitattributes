@@ -5,4 +5,3 @@
 *.xml linguist-detectable=false    
 *.c++ linguist-detectable=false 
 *.dart linguist-detectable=true
-*.flutter linguist-detectable=true
