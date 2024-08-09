@@ -3,7 +3,6 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-void main ()=>runApp(const MaterialApp(home: myHomePage(),debugShowCheckedModeBanner: false,));
 class myHomePage extends StatefulWidget {
   const myHomePage({super.key});
 
